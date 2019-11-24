@@ -6,7 +6,9 @@ const App = () => {
         <Fragment>
             <StatusBar barStyle="dark-content" />
             <SafeAreaView>
-                <View>Hello World</View>
+                <View>
+                    <Text>Hello World</Text>
+                </View>
             </SafeAreaView>
         </Fragment>
     )
